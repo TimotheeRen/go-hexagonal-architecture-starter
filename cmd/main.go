@@ -1,9 +1,9 @@
 package main
 
 import (
+	"fmt"
 	"16/internal/adaptaters/secondary"
 	"16/internal/infrastructure"
-	"fmt"
 )
 
 func main() {
