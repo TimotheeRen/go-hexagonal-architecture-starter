@@ -1,0 +1,1 @@
+# Go hexagonal architecture starter
