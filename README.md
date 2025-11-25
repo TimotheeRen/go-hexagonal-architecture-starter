@@ -1,4 +1,5 @@
 # Go hexagonal architecture starter
+A reusable basic hexagonal architecture in go
 ```bash
 .
 ├── cmd
@@ -23,4 +24,16 @@
 ├── main
 ├── Makefile
 └── README.md
+```
+## Lanch the database
+```bash
+make db
+```
+## run
+```bash
+make run
+```
+## build
+```bash
+make build
 ```
